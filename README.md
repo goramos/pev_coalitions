@@ -7,16 +7,17 @@ This repository contains three algorithms:
 * *Self-adapting Coalition Formation* (SACF), introduced in [4]. See folder `saso`.
 * *Self-adapting Coalition Formation with Changing Coalitions* (SACF<sup>+</sup>), introduced in [2]. See folder `mags`.
 
-:::warning
-Important! The implementations in this repository are compatible with NetLogo 5.3.1 and may not work on later versions.
-:::
-
 
 ## Authors
 
 * [Gabriel de O. Ramos](https://www.inf.ufrgs.br/~goramos)
 * [Juan C. Burguillo](https://sites.google.com/site/jcburgui)
 * [Ana L. C. Bazzan](https://www.inf.ufrgs.br/bazzan)
+
+
+## Prerequisites
+
+The implementations in this repository are compatible with NetLogo 5.3.1 and may not work on later versions.
 
 
 ## Publications
