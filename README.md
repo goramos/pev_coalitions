@@ -10,7 +10,7 @@ The algorithms are compatible with NetLogo 5.3.1 and may not work on later versi
 
 * [Gabriel de O. Ramos](https://www.inf.ufrgs.br/~goramos)
 * [Juan C. Burguillo](https://sites.google.com/site/jcburgui)
-* [Ana L. C. Bazzan](https://www.inf.ufrgs.br/bazzan).
+* [Ana L. C. Bazzan](https://www.inf.ufrgs.br/bazzan)
 
 ## Publications
 * Ramos, G. de O., Burguillo, J. C., & Bazzan, A. L. C. (2018). **Coalitions of Electric Vehicles in Smart Grids**. In *Self-organizing Coalitions for Managing Complexity* (pp. 207–263). Springer. http://doi.org/10.1007/978-3-319-69898-4_10
